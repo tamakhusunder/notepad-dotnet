@@ -1,0 +1,8 @@
+E:\8th sem\dotnet\vs_project\Notepad(lab4)\Mynotepad\Mynotepad\bin\Debug\Mynotepad.exe.config
+E:\8th sem\dotnet\vs_project\Notepad(lab4)\Mynotepad\Mynotepad\bin\Debug\Mynotepad.exe
+E:\8th sem\dotnet\vs_project\Notepad(lab4)\Mynotepad\Mynotepad\bin\Debug\Mynotepad.pdb
+E:\8th sem\dotnet\vs_project\Notepad(lab4)\Mynotepad\Mynotepad\obj\Debug\Mynotepad.Form1.resources
+E:\8th sem\dotnet\vs_project\Notepad(lab4)\Mynotepad\Mynotepad\obj\Debug\Mynotepad.Properties.Resources.resources
+E:\8th sem\dotnet\vs_project\Notepad(lab4)\Mynotepad\Mynotepad\obj\Debug\Mynotepad.csproj.GenerateResource.Cache
+E:\8th sem\dotnet\vs_project\Notepad(lab4)\Mynotepad\Mynotepad\obj\Debug\Mynotepad.exe
+E:\8th sem\dotnet\vs_project\Notepad(lab4)\Mynotepad\Mynotepad\obj\Debug\Mynotepad.pdb
